@@ -1,4 +1,4 @@
-# Man_Made_Geographies
+# Studio 12
 
 Hello Studio 12 students!
 
